@@ -47,9 +47,9 @@ public class Main {
             }
 
         if(product.getCategory() != null){
-            System.out.println("Reflact Working");
+            System.out.println("Reflect Working");
         }else {
-            System.out.println("Reflact not Working");
+            System.out.println("Reflect not Working");
         }
     }
 }
